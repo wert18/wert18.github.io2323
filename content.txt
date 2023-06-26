@@ -32,9 +32,9 @@ I have Explained some of my hacks via <span id="c"><a href="https://medium.com/@
 {
     Website: "<span id="c"><a href="https://smukx.github.io"> _SMUKX_#07</span>",
     GitHub: "<span id="c"><a href="https://github.com/Whitecat18" target="_blank"> Whitecat18</span>",
-    Email: "<span id="c">smukx@duck.com</span>"
-    Blog: "<span id="c"><a href="https://smukx.github.io" target="_blank"> Medium Blog </a></span> "
-}   
+    Email: "<span id="c"> smukx@duck.com </span>"
+    Blog: "<span id="c"><a href="https://medium.com/@smukx" target="_blank"> Medium Blog </a></span> "
+}
 &nbsp;
 <span id="a">\\Root\ATL-srg\_SMU7X_&gt;</span><span id="b">cat my_fear.txt</span>
 Dont Be a Script Kiddie
